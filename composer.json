@@ -1,0 +1,15 @@
+{
+    "name": "org_heigl/composerlocktest",
+    "description": "Tests for composer.lock-files",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^4.8||^5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andreas Heigl",
+            "email": "andreas@heigl.org"
+        }
+    ]
+}
